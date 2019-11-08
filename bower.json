@@ -1,0 +1,29 @@
+{
+  "name": "webkit-sass-bem-modifier",
+  "description": "BEM for modifier base.",
+  "main": [
+    "dist/webkit-sass-bem-modifier.css",
+    "dist/webkit-sass-bem-modifier.scss"
+  ],
+  "authors": [
+    "afei"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "webkit",
+    "cssui",
+    "bem-modifier"
+  ],
+  "homepage": "https://github.com/afeiship/webkit-sass-bem-modifier",
+  "moduleType": [
+    "amd"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "src"
+  ]
+}
