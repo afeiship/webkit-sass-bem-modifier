@@ -1,0 +1,8 @@
+/*webkit-sass-bem-modifier Start*/
+.is-action {
+  cursor: pointer; }
+
+.is-disabled {
+  pointer-events: none; }
+
+/*webkit-sass-bem-modifier End*/
