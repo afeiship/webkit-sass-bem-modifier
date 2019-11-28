@@ -1,6 +1,8 @@
 /*webkit-sass-bem-modifier Start*/
 .is-hidden {
 }
+.is-visible {
+}
 .is-active {
 }
 .is-action {
@@ -8,5 +10,10 @@
 }
 .is-disabled {
   pointer-events: none;
+}
+.is-title {
+  user-select: none;
+}
+.is-text {
 }
 /*webkit-sass-bem-modifier End*/
