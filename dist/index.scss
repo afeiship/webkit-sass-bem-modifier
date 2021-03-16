@@ -3,16 +3,15 @@
  * description: Dot background.
  * homepage: https://github.com/afeiship/wsui-dot-background
  * version: 1.0.0
- * date: 2020-12-23 15:01:37
+ * date: 2021-03-16 17:34:33
  * license: MIT
  */
 
 /*wsui-dot-background Start*/
-$wsui-dot-background-options: (
-  color: #f00
-) !default;
+$wsui-dot-background-options: () !default;
 
 .wsui-dot-background {
-  //Your code goes here.
+  background-image: radial-gradient(rgba(255, 255, 255, 0.5) 15%, rgba(0, 0, 0, 0) 16%);
+  background-size: 5px 5px, 100% 100%;
 }
 /*wsui-dot-background End*/
