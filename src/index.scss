@@ -1,0 +1,8 @@
+/*wsui-dot-background Start*/
+$wsui-dot-background-options: () !default;
+
+.wsui-dot-background {
+  background-image: radial-gradient(rgba(255, 255, 255, 0.5) 15%, rgba(0, 0, 0, 0) 16%);
+  background-size: 5px 5px, 100% 100%;
+}
+/*wsui-dot-background End*/
