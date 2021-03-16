@@ -21,6 +21,7 @@ npm i @jswork/wsui-dot-background
 
 ## preview
 - https://afeiship.github.io/wsui-dot-background/
+- https://www.emojiall.com/zh-hans
 
 ## license
 Code released under [the MIT license](https://github.com/afeiship/wsui-dot-background/blob/master/LICENSE.txt).
